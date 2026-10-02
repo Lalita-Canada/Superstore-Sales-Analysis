@@ -8,6 +8,7 @@ data to uncover key trends and insights.
 - Python, Pandas, Matplotlib, Seaborn
 
 ## Key Insights
+![Superstore Dashboard](superstore_dashboard.png)
 1. Technology is the highest revenue category
 2. West region generates the most profit
 3. Sales peak during November-December
