@@ -11,7 +11,7 @@ data to uncover key trends and insights.
 ![Superstore Dashboard](superstore_dashboard.png)
 1. Technology is the highest revenue category
 2. West region generates the most profit
-3. Sales peak during November-December
+3. Sales peak in the fall, with spikes every September and November
 4. Central region has the lowest profit
 
 ## View Full Project on Kaggle
