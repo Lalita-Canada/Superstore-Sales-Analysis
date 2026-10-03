@@ -15,4 +15,4 @@ data to uncover key trends and insights.
 4. Central region has the lowest profit
 
 ## View Full Project on Kaggle
-https://www.kaggle.com/code/lalitacanada/notebook534487e182
+https://www.kaggle.com/code/lalitacanada/superstore-sales-analysis-business-insights
